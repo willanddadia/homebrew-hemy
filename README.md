@@ -1,6 +1,6 @@
 # Hemy (beta) Homebrew tap
 
-Hemy is a Mac app that works like Slack for Claude Code sessions. This is a **beta** (1.0.0-beta.2).
+Hemy is a Mac app that works like Slack for Claude Code sessions. This is a **beta** (1.0.0-beta.3).
 
 ```
 brew install --cask willanddadia/hemy/hemy
