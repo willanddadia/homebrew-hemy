@@ -1,6 +1,6 @@
 cask "hemy" do
-  version "1.0.2"
-  sha256 "b7a1275b29416c005cc366559d83d24a8d6294223d3f4717d2a811f5fde14bbf"
+  version "1.0.3"
+  sha256 "24c3d4788e1a086dd38bc153bf5ccfa41cc8ddf3ecceaee44a5a30fd701564a8"
 
   url "https://github.com/willanddadia/homebrew-hemy/releases/download/v#{version}/Hemy-#{version}.dmg"
   name "Hemy"
